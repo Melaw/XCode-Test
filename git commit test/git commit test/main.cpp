@@ -14,5 +14,6 @@ int main(int argc, const char * argv[]) {
     std::cout << "Hello, World!\n";
     cout<<20200503<<endl;
     cout<<777<<endl;
+    cout<<"0818branch ahead commit test"<<endl;
     return 0;
 }

@@ -15,5 +15,6 @@ int main(int argc, const char * argv[]) {
     cout<<20200503<<endl;
     cout<<777<<endl;
     cout<<"master ahead change "<<endl;
+    cout<<"0818branch ahead commit test"<<endl;
     return 0;
 }
